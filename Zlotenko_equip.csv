@@ -1,0 +1,11 @@
+equip_id,equip_type_id,country_id,model,submodel
+1,1,1,T-62M,None
+2,1,1,T-62MV,None
+3,1,1,T-64A,None
+4,2,2,Vityaz DT-10PM articulated tracked carrier,None
+5,2,2,Vityaz DT-30 articulated tracked carrier,None
+6,3,2,RKhM-6 Povozka,with RP-377VM1 jammer
+7,3,3,"BREM-Ch ""BREM-4"" armoured recovery vehicle",None
+8,4,1,1V110 BM-21 Grad battery command vehicle,None
+9,5,1,BMD-2,None
+10,6,4,Iveco LMV Rys,None
